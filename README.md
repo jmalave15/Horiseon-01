@@ -19,7 +19,7 @@ Refactoring code and making it accessible
 
 ### Screenshot
 
-![screenshot](/assests/images/screenshot_horiseon.jpg) 
+![screenshot](urban-octo-telegram/Develop/assets/images/screenshot_horiseon.jpg) 
 
 ## Work done by 
 [Jose Malave on GitHub] (http://github.com/jmalave15)
