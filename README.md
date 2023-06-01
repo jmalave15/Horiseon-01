@@ -1,6 +1,9 @@
 # Horiseon-01
 Refactoring code and making it accessible 
 
+Deployed at 
+https://jmalave15.github.io/Horiseon-01/
+
 ## Upgrades made
 * Proper usage of semantic HTML elements
 * Images are viewable and have an alt attributes
@@ -19,7 +22,7 @@ Refactoring code and making it accessible
 
 ### Screenshot
 
-![screenshot](urban-octo-telegram/Develop/assets/images/screenshot_horiseon.jpg) 
+![screenshot](assets/images/screenshot_horiseon.jpg) 
 
 ## Work done by 
 [Jose Malave on GitHub] (http://github.com/jmalave15)
